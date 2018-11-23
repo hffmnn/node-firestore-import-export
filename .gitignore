@@ -36,4 +36,4 @@ node_modules/
 !tests/*.json
 
 # Dist
-dist/**
+# dist/**
